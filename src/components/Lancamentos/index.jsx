@@ -26,7 +26,7 @@ function Lancamentos() {
 
   return (
     <section>
-      <h2>APROVEITE OS LANÇAMENTOS</h2>
+      <h2>APROVEITE OS LANÇAMENTOS E TESTE OS PRODUTOS</h2>
       <div className="lancamentos">
         <div className="container-lancamentos">
           <figure>
