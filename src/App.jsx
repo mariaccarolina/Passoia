@@ -1,5 +1,6 @@
 // aqui importamos os arquivos
 import Header from "./components/Header";
+import Banner from "./components/Banner"
 import Lancamentos from "./components/Lancamentos";
 import Produtos from "./components/Produtos";
 
@@ -10,6 +11,7 @@ function App() {
   return (
     <>
       <Header />
+      <Banner/>
       <Produtos />
       <Lancamentos />
     </>
