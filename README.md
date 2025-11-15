@@ -17,7 +17,7 @@ O foco deste projeto é demonstrar na prática:
 - **React.js**
 - **JavaScript (ES6+)**
 - **CSS / SCSS**
-- **Vite** (se você estiver usando)
+- **Vite**
 
 ---
 
@@ -28,14 +28,14 @@ Todo o site é construído usando vários componentes independentes, permitindo 
 
 Exemplos de componentes:
 - `Banner`
-- Outros componentes reutilizáveis do layout
+-  `Produtos`
+- `Lancamentos`
 
 ---
 
 ### 📨 Uso de Props
 O projeto utiliza props para tornar os componentes dinâmicos e reutilizáveis.
 
-Exemplo:
 - O componente **Banner** recebe diferentes imagens via props, permitindo criar vários banners usando o mesmo componente.
 
 ---
