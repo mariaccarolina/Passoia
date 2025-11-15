@@ -1,9 +1,9 @@
 import "./banner.scss";
 
-function Banner(){
+function Banner({imagem, alt}){
     return (
         <section className="banner">
-            <img src="./banner.png" alt="" />
+            <img src={imagem} alt={alt} />
         </section>
     )
 }
